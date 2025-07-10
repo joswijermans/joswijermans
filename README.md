@@ -1,5 +1,5 @@
+![AMARA Banner](https://github.com/joswijermans/joswijermans/raw/main/github_banner_amara.png)
 
-https://github.com/joswijermans/joswijermans/raw/main/github_banner_amara.png# Hi there 👋
 
 <!--
 **joswijermans/joswijermans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
