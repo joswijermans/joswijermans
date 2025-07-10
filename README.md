@@ -1,5 +1,5 @@
-![AMARA Banner](https://github.com/joswijermans/joswijermans/raw/main/github_banner_amara.png)
-#
+![AMARA Banner](github_banner_amara.png)
+
 
 
 <!--
