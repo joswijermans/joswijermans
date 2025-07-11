@@ -1,4 +1,5 @@
-![AMARABanner](github_banner_amara.png)
+![AMARA_Banner](https://raw.githubusercontent.com/joswijermans/joswijermans/main/github_banner_amara.png)
+
 
 
 
