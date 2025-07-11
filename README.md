@@ -1,4 +1,4 @@
-![AMARABanner](github_banner_amara.png)!
+![AMARABanner](github_banner_amara.png)
 
 
 
